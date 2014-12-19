@@ -1,8 +1,14 @@
 {
+  "peerDependencies": {
+    "react": "0.12.x"
+  },
   "devDependencies": {
     "browserify": "^7.0.1",
     "gulp": "^3.8.10",
+    "gulp-util": "^3.0.1",
+    "http-server": "^0.7.4",
     "react": "^0.12.1",
     "reactify": "^0.17.1"
-  }
+  },
+  "main": "index.js"
 }
